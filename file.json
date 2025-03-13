@@ -1,0 +1,317 @@
+[
+  {
+    "_id": "67d31ead1306642063ff1391",
+    "index": 0,
+    "guid": "af243508-ab93-441b-8576-2cc56e29473b",
+    "isActive": true,
+    "balance": "$2,625.73",
+    "picture": "http://placehold.it/32x32",
+    "age": 28,
+    "eyeColor": "blue",
+    "name": "Holmes Burt",
+    "gender": "male",
+    "company": "ZIGGLES",
+    "email": "holmesburt@ziggles.com",
+    "phone": "+1 (837) 589-2230",
+    "address": "878 Sullivan Place, Deputy, Mississippi, 5052",
+    "about": "Ullamco ullamco adipisicing consectetur irure laboris sint mollit deserunt ullamco. Enim minim in commodo et qui consectetur pariatur laborum sunt eu. Fugiat qui elit fugiat commodo do sit non proident esse aute sit amet. Occaecat elit commodo ut consectetur eu labore ipsum ex non incididunt cillum enim. Est velit minim Lorem dolor ea et dolore officia.\r\n",
+    "registered": "2015-02-18T09:20:39 -01:00",
+    "latitude": -60.319321,
+    "longitude": 26.039727,
+    "tags": [
+      "deserunt",
+      "mollit",
+      "dolore",
+      "cillum",
+      "nisi",
+      "pariatur",
+      "aliqua"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Angelita Mcgee"
+      },
+      {
+        "id": 1,
+        "name": "Phelps Obrien"
+      },
+      {
+        "id": 2,
+        "name": "Sally Hobbs"
+      }
+    ],
+    "greeting": "Hello, Holmes Burt! You have 5 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "67d31ead406fd463ff7df6d8",
+    "index": 1,
+    "guid": "1f2f3fd6-d6be-4b8b-b93b-5e1935a0ef10",
+    "isActive": true,
+    "balance": "$2,658.06",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "blue",
+    "name": "Golden Ball",
+    "gender": "male",
+    "company": "ORONOKO",
+    "email": "goldenball@oronoko.com",
+    "phone": "+1 (832) 471-2421",
+    "address": "877 Belvidere Street, Dana, New Jersey, 1222",
+    "about": "Ea voluptate labore voluptate dolore commodo labore minim ut sit consequat sit magna ea velit. Non laborum ullamco do ad duis enim aute aliqua aliqua aute labore irure consectetur. Incididunt deserunt eu cupidatat ut laborum velit ad sit esse minim. Aute mollit et est aute amet culpa.\r\n",
+    "registered": "2024-11-26T12:48:47 -01:00",
+    "latitude": 14.344139,
+    "longitude": 54.208851,
+    "tags": [
+      "ex",
+      "exercitation",
+      "sint",
+      "eiusmod",
+      "irure",
+      "reprehenderit",
+      "officia"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Meghan Conley"
+      },
+      {
+        "id": 1,
+        "name": "Patel Nichols"
+      },
+      {
+        "id": 2,
+        "name": "Castro Ramos"
+      }
+    ],
+    "greeting": "Hello, Golden Ball! You have 9 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "67d31eaddfd942b8ec4d872a",
+    "index": 2,
+    "guid": "c30ec318-51e1-4c3b-96d7-f3130716e953",
+    "isActive": false,
+    "balance": "$1,061.29",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "eyeColor": "green",
+    "name": "Bradshaw Mathis",
+    "gender": "male",
+    "company": "ISOPLEX",
+    "email": "bradshawmathis@isoplex.com",
+    "phone": "+1 (853) 600-3311",
+    "address": "893 Engert Avenue, Walland, North Carolina, 4264",
+    "about": "Magna sint laborum amet sint labore incididunt consequat voluptate laboris amet magna do. Tempor fugiat esse minim ipsum cupidatat amet consequat labore. Aute sunt consectetur officia enim officia velit minim exercitation. Elit nulla ad nulla quis Lorem velit excepteur Lorem eiusmod enim ut. Nisi aliquip do deserunt cillum irure. Dolore laboris anim incididunt est. Commodo ea excepteur amet deserunt culpa.\r\n",
+    "registered": "2024-04-16T07:51:01 -02:00",
+    "latitude": -66.008116,
+    "longitude": 76.38706,
+    "tags": [
+      "dolor",
+      "ad",
+      "esse",
+      "ullamco",
+      "eiusmod",
+      "officia",
+      "aliqua"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Josefina Banks"
+      },
+      {
+        "id": 1,
+        "name": "Travis Langley"
+      },
+      {
+        "id": 2,
+        "name": "Tabitha Harrison"
+      }
+    ],
+    "greeting": "Hello, Bradshaw Mathis! You have 7 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "67d31ead41dff3468cb4f05c",
+    "index": 3,
+    "guid": "b4f8bf61-26d8-4c27-87bb-0c87af067834",
+    "isActive": false,
+    "balance": "$2,435.39",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "blue",
+    "name": "Hull Mack",
+    "gender": "male",
+    "company": "AEORA",
+    "email": "hullmack@aeora.com",
+    "phone": "+1 (972) 409-3766",
+    "address": "890 Hill Street, Bentonville, Washington, 6830",
+    "about": "Sint pariatur sunt aliqua eiusmod cillum aliquip cillum culpa. Cupidatat commodo incididunt do nisi in deserunt non anim do Lorem. Et dolor eiusmod proident aliqua. Mollit et pariatur excepteur magna. Quis duis laborum occaecat amet quis cupidatat do.\r\n",
+    "registered": "2021-06-15T04:16:16 -02:00",
+    "latitude": 33.049241,
+    "longitude": 52.398374,
+    "tags": [
+      "magna",
+      "proident",
+      "nostrud",
+      "dolore",
+      "consectetur",
+      "sint",
+      "ex"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Stevenson Miller"
+      },
+      {
+        "id": 1,
+        "name": "Carrie Kerr"
+      },
+      {
+        "id": 2,
+        "name": "Kidd Fitzgerald"
+      }
+    ],
+    "greeting": "Hello, Hull Mack! You have 9 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "67d31ead5ae127f0a952df39",
+    "index": 4,
+    "guid": "23cf8cc2-2191-4e39-a9a7-b278c7d6f465",
+    "isActive": true,
+    "balance": "$2,464.78",
+    "picture": "http://placehold.it/32x32",
+    "age": 34,
+    "eyeColor": "green",
+    "name": "Morrison Mcpherson",
+    "gender": "male",
+    "company": "JIMBIES",
+    "email": "morrisonmcpherson@jimbies.com",
+    "phone": "+1 (948) 478-3325",
+    "address": "712 Fuller Place, Bartley, Virginia, 8096",
+    "about": "Laboris laboris cillum ex velit ex eiusmod non cupidatat consectetur dolore nostrud quis consectetur. Cupidatat cillum dolore mollit amet adipisicing proident. Laborum quis duis Lorem adipisicing ullamco proident. Deserunt Lorem laboris consectetur nostrud id velit sit. Reprehenderit ut consequat esse est cillum veniam ex excepteur. Anim nulla voluptate anim tempor ipsum ullamco nulla. Sint aliqua tempor quis deserunt deserunt et excepteur dolore tempor dolore quis.\r\n",
+    "registered": "2017-02-14T08:09:52 -01:00",
+    "latitude": 39.561385,
+    "longitude": -28.093433,
+    "tags": [
+      "est",
+      "sint",
+      "enim",
+      "Lorem",
+      "et",
+      "cupidatat",
+      "officia"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Parks Cole"
+      },
+      {
+        "id": 1,
+        "name": "Guzman Strickland"
+      },
+      {
+        "id": 2,
+        "name": "Whitfield Walter"
+      }
+    ],
+    "greeting": "Hello, Morrison Mcpherson! You have 1 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "67d31ead023dea9b23893343",
+    "index": 5,
+    "guid": "f0d702a4-4c6d-4071-a46e-9be77e258c6e",
+    "isActive": false,
+    "balance": "$3,452.28",
+    "picture": "http://placehold.it/32x32",
+    "age": 34,
+    "eyeColor": "green",
+    "name": "Greer Reid",
+    "gender": "male",
+    "company": "ZORK",
+    "email": "greerreid@zork.com",
+    "phone": "+1 (869) 418-2719",
+    "address": "944 Duryea Place, Lafferty, Arkansas, 4091",
+    "about": "Enim id occaecat do non. Velit minim veniam ipsum irure aute est. Do culpa laboris proident irure. Proident magna nisi id aliquip anim id proident sint anim cillum aliquip irure.\r\n",
+    "registered": "2025-02-15T05:55:11 -01:00",
+    "latitude": -3.00652,
+    "longitude": 52.323895,
+    "tags": [
+      "veniam",
+      "pariatur",
+      "tempor",
+      "anim",
+      "nisi",
+      "do",
+      "non"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Lacy Cotton"
+      },
+      {
+        "id": 1,
+        "name": "Holt Reyes"
+      },
+      {
+        "id": 2,
+        "name": "Ramirez Good"
+      }
+    ],
+    "greeting": "Hello, Greer Reid! You have 9 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "67d31eaddc6ae2335fa33b4a",
+    "index": 6,
+    "guid": "30990e4d-0ad4-4992-ac8b-b4f4743936e4",
+    "isActive": false,
+    "balance": "$2,123.87",
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "eyeColor": "blue",
+    "name": "Ramos Clarke",
+    "gender": "male",
+    "company": "RAMEON",
+    "email": "ramosclarke@rameon.com",
+    "phone": "+1 (866) 530-2551",
+    "address": "310 Ivan Court, Marne, Louisiana, 1613",
+    "about": "Sunt dolor adipisicing voluptate aliqua excepteur ipsum consequat officia minim non ipsum sint. Ad pariatur eiusmod veniam non et excepteur tempor ad qui et aliqua deserunt esse. Commodo elit deserunt mollit qui eu magna ea duis ullamco incididunt cupidatat ut ut. Laborum reprehenderit esse sint nulla sint incididunt cillum voluptate deserunt veniam enim. Quis commodo eiusmod ipsum aliquip voluptate excepteur tempor elit tempor officia enim. Non officia excepteur magna anim ex esse deserunt esse ut fugiat irure adipisicing adipisicing minim.\r\n",
+    "registered": "2019-06-17T09:34:56 -02:00",
+    "latitude": 11.364096,
+    "longitude": -43.942844,
+    "tags": [
+      "Lorem",
+      "magna",
+      "incididunt",
+      "consectetur",
+      "dolore",
+      "ea",
+      "quis"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Palmer Hicks"
+      },
+      {
+        "id": 1,
+        "name": "Richmond Meadows"
+      },
+      {
+        "id": 2,
+        "name": "Roberson Long"
+      }
+    ],
+    "greeting": "Hello, Ramos Clarke! You have 9 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
